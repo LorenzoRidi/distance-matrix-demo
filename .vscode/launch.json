@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DistanceMatrixApplication",
+            "request": "launch",
+            "mainClass": "com.example.distancematrixdemo.DistanceMatrixApplication",
+            "projectName": "distance-matrix-demo"
+        }
+    ]
+}
